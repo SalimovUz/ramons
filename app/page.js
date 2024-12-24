@@ -57,7 +57,7 @@ export default function Home() {
           </div>
         </a>
         <a
-          href="https://t.me/ramonsss"
+          href="https://t.me/ramonssss"
           className="flex items-center gap-4 p-3 rounded-lg hover:bg-blue-50 transition border"
         >
           <SendIcon className="text-blue-500 text-3xl" />
@@ -87,7 +87,7 @@ export default function Home() {
         >
           <LocationOnIcon className="text-red-500 text-3xl" />
           <div>
-            <h1 className="text-lg font-bold">Shayxontohur Nazarbek</h1>
+            <h1 className="text-lg font-bold">Zangiota Nazarbek</h1>
             <p className="text-gray-600">☎️Tel: +998 88 190 96 90</p>
           </div>
         </a>
